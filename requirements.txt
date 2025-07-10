@@ -1,9 +1,0 @@
-flask
-uvicorn
-PyMuPDF
-sentence-transformers
-faiss-cpu
-openai
-jinja2
-PyPDF2
-pinecone
